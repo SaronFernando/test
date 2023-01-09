@@ -1,0 +1,14 @@
+{
+   "new_account": [
+      {
+         "name": "kamatchi",
+         "phone_no": "1234567890",
+         "password": "test"
+      },
+      {
+         "name": "joseph",
+         "phone_no": "1346758",
+         "password": "test"
+      }
+   ]
+}
